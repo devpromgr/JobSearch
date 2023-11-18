@@ -1,3 +1,10 @@
+<#
+This script was meant to download a companies job search page and allow searches that summarize job posts based on pattern matches.
+Unfortunately the default downloader is pulling down raw HTML and more of a rendered scraper is needed.
+Plus many websites have small page sizes of like 10 entries so automation of paging would be very helpful.
+Given these issues this effort is abandoned for now in favor of doing manual review using the jobLaunch script.
+#>
+
 # Set CSV file path and column headers
 $CSVFile = "companies.csv"
 $URLColumn = "Url"
