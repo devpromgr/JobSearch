@@ -4,7 +4,7 @@ Tools for job hunting.
 
 ### DeJobVu bookmark similarity checker AKA job posting deduplicator
 
-This tool finds similar links in bookmarks compared to whatever page (job) you are looking at now. Published in the chrome store.  
+This tool finds similar links in bookmarks compared to whatever page (job) you are looking at now. Published in the chrome store.\ 
 [DeJobVu in Chrome store](https://chromewebstore.google.com/detail/dejobvu-bookmark-similari/cobngldemlglgojpljjdhfknnjocbpgc)
 
 ![DeJobVu](https://lh3.googleusercontent.com/z_jqKQPTd5m8DQN9xN_9yY3tYUBBXXD22BXgxZRkTRwCumLQeUd9ymiMQ5xFPVpdoD_uhCDCSDryFCGrCzZCiIajZg=s1280-w1280-h800)
